@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kidsadmindashboard/static/css/main.9c1b02e7.css",
-    "main.js": "/kidsadmindashboard/static/js/main.6a43a1db.js",
-    "static/js/453.ea02d288.chunk.js": "/kidsadmindashboard/static/js/453.ea02d288.chunk.js",
+    "main.css": "/kidsadmindashboard/static/css/main.b92ff9a8.css",
+    "main.js": "/kidsadmindashboard/static/js/main.271331e0.js",
+    "static/js/453.4d7bf530.chunk.js": "/kidsadmindashboard/static/js/453.4d7bf530.chunk.js",
     "index.html": "/kidsadmindashboard/index.html",
-    "main.9c1b02e7.css.map": "/kidsadmindashboard/static/css/main.9c1b02e7.css.map",
-    "main.6a43a1db.js.map": "/kidsadmindashboard/static/js/main.6a43a1db.js.map",
-    "453.ea02d288.chunk.js.map": "/kidsadmindashboard/static/js/453.ea02d288.chunk.js.map"
+    "main.b92ff9a8.css.map": "/kidsadmindashboard/static/css/main.b92ff9a8.css.map",
+    "main.271331e0.js.map": "/kidsadmindashboard/static/js/main.271331e0.js.map",
+    "453.4d7bf530.chunk.js.map": "/kidsadmindashboard/static/js/453.4d7bf530.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c1b02e7.css",
-    "static/js/main.6a43a1db.js"
+    "static/css/main.b92ff9a8.css",
+    "static/js/main.271331e0.js"
   ]
 }
