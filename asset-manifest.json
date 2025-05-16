@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kidsadmindashboard/static/css/main.93ab2bb6.css",
-    "main.js": "/kidsadmindashboard/static/js/main.668dd634.js",
+    "main.js": "/kidsadmindashboard/static/js/main.becf85b2.js",
     "static/js/453.4d7bf530.chunk.js": "/kidsadmindashboard/static/js/453.4d7bf530.chunk.js",
     "index.html": "/kidsadmindashboard/index.html",
     "main.93ab2bb6.css.map": "/kidsadmindashboard/static/css/main.93ab2bb6.css.map",
-    "main.668dd634.js.map": "/kidsadmindashboard/static/js/main.668dd634.js.map",
+    "main.becf85b2.js.map": "/kidsadmindashboard/static/js/main.becf85b2.js.map",
     "453.4d7bf530.chunk.js.map": "/kidsadmindashboard/static/js/453.4d7bf530.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93ab2bb6.css",
-    "static/js/main.668dd634.js"
+    "static/js/main.becf85b2.js"
   ]
 }
